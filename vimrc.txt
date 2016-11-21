@@ -2,6 +2,7 @@ set encoding=utf-8
 set enc=utf-8
 set fileencodings=utf-8,cp950
 syntax on
+set expandtab
 set ai
 set shiftwidth=4
 set tabstop=4
